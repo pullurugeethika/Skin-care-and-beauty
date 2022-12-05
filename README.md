@@ -42,7 +42,9 @@ I have created a health bott for "SKIN CARE AND BEAUTY" using HTML, QnA Maker an
 
 
 
-### Services -
+### Gallery -
+![gallery1](https://user-images.githubusercontent.com/116955279/205672290-cc1abd3e-c1e2-4035-8ef1-d8ace0fc285d.png)
+![gallery2](https://user-images.githubusercontent.com/116955279/205672302-ec09d525-b2a6-4275-9be6-2aa4fbac8b2c.png)
 
 
 
