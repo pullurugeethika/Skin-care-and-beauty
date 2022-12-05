@@ -25,7 +25,11 @@ I have created a health bott for "SKIN CARE AND BEAUTY" using HTML, QnA Maker an
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots
+## Home -
+![home1](https://user-images.githubusercontent.com/116955279/205671149-838284ff-a672-413b-89c6-32d382e3cde2.png)
+![home2](https://user-images.githubusercontent.com/116955279/205671161-082e077b-3b52-4501-b977-41e9c3185437.png)
+![home3](https://user-images.githubusercontent.com/116955279/205671164-7d37f128-8cb5-4841-906d-74179b4a83e0.png)
+![home4](https://user-images.githubusercontent.com/116955279/205671169-a1ae169f-6c5b-434d-96f4-cc84515a47ff.png)
 
 
    
